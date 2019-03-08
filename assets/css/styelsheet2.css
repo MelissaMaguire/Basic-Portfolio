@@ -1,0 +1,27 @@
+body {
+    background-color:#ffffff;
+    height: 4em;
+}
+h1 {
+    color:black;
+    text-align: left;
+    font-size: xx-large;
+}
+
+h2 {
+    color:black;
+    text-align: left;
+    font-size: xx-large;
+}
+img {
+    border-radius: 50%;
+    display: block;
+    margin-right: auto;
+    width: 50%;   
+}
+
+a:hover {
+    image:plum;
+}
+
+	
